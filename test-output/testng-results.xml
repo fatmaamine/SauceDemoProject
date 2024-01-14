@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-14T22:59:43 CET" name="Default suite" finished-at="2024-01-14T22:59:55 CET" duration-ms="11939">
+    <groups>
+    </groups>
+    <test started-at="2024-01-14T22:59:43 CET" name="PomSauceDemoTest" finished-at="2024-01-14T22:59:49 CET" duration-ms="6484">
+      <class name="tests.PomSauceDemoTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:tests.PomSauceDemoTest@470734c3]" started-at="2024-01-14T22:59:43 CET" name="Setup" finished-at="2024-01-14T22:59:44 CET" duration-ms="1609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="sauceDemoTest()[pri:0, instance:tests.PomSauceDemoTest@470734c3]" started-at="2024-01-14T22:59:44 CET" name="sauceDemoTest" finished-at="2024-01-14T22:59:48 CET" duration-ms="4065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sauceDemoTest -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:tests.PomSauceDemoTest@470734c3]" started-at="2024-01-14T22:59:48 CET" name="Teardown" finished-at="2024-01-14T22:59:49 CET" duration-ms="779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- tests.PomSauceDemoTest -->
+    </test> <!-- PomSauceDemoTest -->
+    <test started-at="2024-01-14T22:59:49 CET" name="PomSauceDemoTestFactory" finished-at="2024-01-14T22:59:55 CET" duration-ms="5353">
+      <class name="tests.PomSauceDemoTestFactory">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:tests.PomSauceDemoTestFactory@5e2c3d18]" started-at="2024-01-14T22:59:49 CET" name="Setup" finished-at="2024-01-14T22:59:50 CET" duration-ms="903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="sauceDemoTest()[pri:0, instance:tests.PomSauceDemoTestFactory@5e2c3d18]" started-at="2024-01-14T22:59:50 CET" name="sauceDemoTest" finished-at="2024-01-14T22:59:54 CET" duration-ms="4149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sauceDemoTest -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:tests.PomSauceDemoTestFactory@5e2c3d18]" started-at="2024-01-14T22:59:54 CET" name="Teardown" finished-at="2024-01-14T22:59:55 CET" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- tests.PomSauceDemoTestFactory -->
+    </test> <!-- PomSauceDemoTestFactory -->
+  </suite> <!-- Default suite -->
+</testng-results>
